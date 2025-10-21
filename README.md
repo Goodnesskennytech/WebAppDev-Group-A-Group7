@@ -6,3 +6,9 @@ web development assignment1
 4. Idonor Joy Ejiroghene  23/2479   
 5. Ayeni Goodness kehinde  24/2462   
 6. John Goodluck Bassey  23/1343   
+  
+Project: Simple Blog and Comment System   
+●   Build a simple blog system.   
+●   POST form to add blog posts and store in 'posts' table.   
+●   Display posts and allow GET-based viewing of individual posts.   
+●   Enable commenting via POST on each post.  
