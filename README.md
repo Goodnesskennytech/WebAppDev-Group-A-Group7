@@ -1,6 +1,5 @@
 # WebAppDev-Group-A-Group7  
 web development assignment1    
-   NAMES                     MATRIC_NO     GITUSERNAME
 1. Jibunma Hannah Chionyedue  23/2952      Jibunma-Hannah
 2. Ezegwu Paul Ifechuckwu  23/1092          Paul000777
 3. Chukundah Chimenem Isaiah  23/0635       Isaiah564
