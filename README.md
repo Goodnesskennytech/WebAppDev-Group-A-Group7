@@ -1,7 +1,7 @@
 # WebAppDev-Group-A-Group7  
 Web Development Assignment1    
 1. Jibunma Hannah Chionyedue    23/2952    Jibunma-Hannah      Assignment.sql
-2. Ezegwu Paul Ifechuckwu       23/1092    Paul000777      
+2. Ezegwu Paul Ifechuckwu       23/1092    Paul000777          comment.php    
 3. Chukundah Chimenem Isaiah    23/0635    Isaiah564           post.php
 4. Idonor Joy Ejiroghene        23/2479    idonorjoy           new_post.php
 5. Ayeni Goodness kehinde       24/2462    Goodnesskennytech   db.php
