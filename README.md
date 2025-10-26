@@ -16,19 +16,19 @@ Project: Simple Blog and Comment System
 
 **THE WORKFLOW OF THIS PROJECT**   
 This project integrates blog post management with a user comment feature using php and MySql.
-Steps taken to acheive the end product of our project
-1)planning our database structure - We verified that our local server environment xxamp is running and its accessible. Then we created our database and three primary tables using  phpMyadmin
-2)Blog post management - This phase involved the creation of the Html form for creating new posts. The form will use the post method to send data to the php scripts we created.
-3)After the blog post management our comment system was integrated.This part makes it possible for us to post to the user interface for viewing and submitting comments.
-4)The preparation for submission phase - The sql file was exported 
- PROJECT SETUP
- The prerequisites for this project :
- 1)A local web server e.g xxamp
- 2)A web browser e.g chrome
- 3)A text editor (Vs code)
- 4)Database initialization
- 5)File and folder placement
- 6)code configuration - specification of the exact file where the connection must be set
- 7)Running the application 
- A Short Summary Of The project Outcome 
- This project successfully developed a functional database driven web application using php and MySql meeting the requirements for a basic blog platform with interactive commenting.
+Steps taken to acheive the end product of our project  
+1) planning our database structure - We verified that our local server environment xxamp is running and its accessible. Then we created our database and three primary tables using  phpMyadmin  
+2) Blog post management - This phase involved the creation of the Html form for creating new posts. The form will use the post method to send data to the php scripts we created.  
+3) After the blog post management our comment system was integrated.This part makes it possible for us to post to the user interface for viewing and submitting comments.
+4) The preparation for submission phase - The sql file was exported  
+** PROJECT SETUP**  
+ The prerequisites for this project :  
+ 1) A local web server e.g xxamp  
+ 2) A web browser e.g chrome   
+ 3) A text editor (Vs code)  
+ 4) Database initialization  
+ 5) File and folder placement  
+ 6) code configuration - specification of the exact file where the connection must be set  
+ 7) Running the application   
+ A Short Summary Of The project Outcome   
+ This project successfully developed a functional database driven web application using php and MySql meeting the requirements for a basic blog platform with interactive commenting.  
