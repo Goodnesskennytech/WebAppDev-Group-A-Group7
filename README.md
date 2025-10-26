@@ -12,7 +12,7 @@ Project: Simple Blog and Comment System
 ●   POST form to add blog posts and store in 'posts' table.   
 ●   Display posts and allow GET-based viewing of individual posts.   
 ●   Enable commenting via POST on each post.  
-THE WORKFLOW OF THIS PROJECT
+**THE WORKFLOW OF THIS PROJECT**
 This project integrates blog post management with a user comment feature using php and MySql.
 Steps taken to acheive the end product of our project
 1)planning our database structure - We verified that our local server environment xxamp is running and its accessible. Then we created our database and three primary tables using  phpMyadmin
